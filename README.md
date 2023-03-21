@@ -1,3 +1,7 @@
+APK
+
+https://drive.google.com/file/d/13Isxy3QviH8qtwCkCJhXPz_g_FvqR3du/view?usp=share_link
+
 简体中文 | [English](./README_EN.md)
 
 # 项目目的
